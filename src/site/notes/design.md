@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/design/","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/design/"}
 ---
 
 esse eh meu site aqui estao meus produtos
