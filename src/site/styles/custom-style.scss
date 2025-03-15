@@ -1,13 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Kings&family=Liter&family=Quintessential&display=swap');
+
 body {
     /***
       ADD YOUR CUSTOM STYLING HERE. (INSIDE THE body {...} section.)
       IT WILL TAKE PRECEDENCE OVER THE STYLING IN THE STYLE.CSS FILE.
    ***/
-    //  background-color: white;
-    //  .content {
-    //   font-size: 14px;
-    //  }
-    //  h1 {
-    //   color: black;
-    //  }
+
+    background-color: #f3a1b8;
+    font-family: "Liter", sans-serif;
+    color: black;
+
+    h1 {
+        .kings-regular {
+  font-family: "Kings", cursive;
+  font-weight: 400;
+  font-style: normal;
+}
+
+    h2 {
+        .quintessential-regular {
+  font-family: "Quintessential", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+    
 }
